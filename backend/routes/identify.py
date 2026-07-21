@@ -10,6 +10,7 @@ from flask import Blueprint, request, jsonify
 from flask_jwt_extended import jwt_required, get_jwt_identity
 from models import db, Plant, Identification
 from achievements import check_achievements_after_identification, log_activity
+from app import limiter
 
 identify_bp = Blueprint("identify", __name__, url_prefix="/api/identify")
 
@@ -80,6 +81,7 @@ def call_plantid(image_bytes, mime_type):
 
 
 @identify_bp.route("", methods=["POST"])
+@limiter.limit("20 per hour")  # image identification is resource-intensive
 @jwt_required()
 def identify_plant():
     user_id = int(get_jwt_identity())
