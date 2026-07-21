@@ -52,10 +52,4 @@ accordingly before deploying to Netlify.
 - Activity log powering the "Recent Activity" profile feed
 - Full profile dashboard: stats, badges, activity, identification history
 
-## Notes / things to double-check before your hackathon demo
-- The `/api/identify` route needs a valid `GEMINI_API_KEY` — test this early.
-- CORS is currently wide open (`origins: "*"`) for development — tighten this
-  to your actual Netlify domain before final submission if you want to be safe.
-- Remedy content is traditional-use reference info written for this project,
-  not verified medical guidance — the UI already includes a disclaimer on the
-  plant detail page; keep it visible.
+
