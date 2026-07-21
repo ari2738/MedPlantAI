@@ -36,6 +36,10 @@ def create_app():
         "https://medplantai.netlify.app",
     ]}})
 
+    # Create tables if they don't exist (safe to run on every startup)
+    with app.app_context():
+        db.create_all()
+
     app.register_blueprint(auth_bp)
     app.register_blueprint(plants_bp)
     app.register_blueprint(saved_bp)
