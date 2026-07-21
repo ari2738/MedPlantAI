@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", "Georgia", serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --color-forest-950: #0B1F14;
+  --color-forest-900: #123321;
+  --color-forest-800: #1C4A2C;
+  --color-forest-700: #2F5D3E;
+  --color-forest-600: #3F7A4F;
+  --color-forest-500: #4F9360;
+
+  --color-sage-100: #E7F0E4;
+  --color-sage-200: #D3E4CD;
+
+  --color-cream-50: #FAF8F3;
+  --color-cream-100: #F3EFE5;
+
+  --color-ink-900: #17211B;
+  --color-ink-700: #34453B;
+  --color-ink-500: #6B7A70;
+  --color-ink-300: #9FAB9F;
+
+  --color-amber-600: #C17A2E;
+  --color-amber-100: #F5E6D3;
+
+  --color-violet-600: #6E5FA8;
+  --color-violet-100: #E9E5F5;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+  }
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+  }
+  body {
+    background-color: var(--color-cream-50);
+    color: var(--color-ink-900);
+  }
+}
+
+/* organic torn-leaf mask for the hero image */
+.leaf-mask {
+  clip-path: polygon(
+    8% 0%, 100% 0%, 100% 85%, 92% 100%, 60% 96%, 30% 100%, 0% 88%, 0% 12%
+  );
+}
+
+/* subtle botanical line texture for the dark sidebar */
+.botanical-texture {
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(255,255,255,0.035) 0, transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(255,255,255,0.03) 0, transparent 45%);
+}
+
+::selection {
+  background: var(--color-sage-200);
+  color: var(--color-forest-900);
+}

@@ -1,0 +1,1154 @@
+[
+  {
+    "common": "Aloe vera",
+    "botanical": "Aloe vera",
+    "family": "Asphodelaceae",
+    "hindi": "Ghritkumari",
+    "tamil": "Katrazhai",
+    "part": "Leaf gel",
+    "uses": [
+      "Skin burns and wounds",
+      "Digestive health",
+      "Hair care"
+    ],
+    "remedies": [
+      {
+        "ailment": "Minor burns/sunburn",
+        "prep": "Apply fresh leaf gel directly to affected skin"
+      },
+      {
+        "ailment": "Constipation",
+        "prep": "Small amount of gel juice taken with water (traditional use, consult a doctor for dosage)"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 1,
+    "slug": "aloe_vera"
+  },
+  {
+    "common": "Amla (Indian gooseberry)",
+    "botanical": "Phyllanthus emblica",
+    "family": "Phyllanthaceae",
+    "hindi": "Amla",
+    "tamil": "Nellikkai",
+    "part": "Fruit",
+    "uses": [
+      "Vitamin C source / immunity",
+      "Hair and scalp health",
+      "Digestion"
+    ],
+    "remedies": [
+      {
+        "ailment": "Low immunity/cold",
+        "prep": "Fresh amla juice or murabba (preserve) taken daily"
+      },
+      {
+        "ailment": "Hair fall",
+        "prep": "Amla oil massaged into scalp"
+      }
+    ],
+    "region": "Pan-India, especially UP and Tamil Nadu",
+    "id": 2,
+    "slug": "amla_indian_gooseberry"
+  },
+  {
+    "common": "Arive-Dantu (Slender amaranth)",
+    "botanical": "Amaranthus viridis",
+    "family": "Amaranthaceae",
+    "hindi": "Chaulai",
+    "tamil": "Mulaikeerai",
+    "part": "Leaves",
+    "uses": [
+      "Iron-rich leafy green",
+      "Mild laxative",
+      "Cooling for body heat"
+    ],
+    "remedies": [
+      {
+        "ailment": "Anemia (dietary support)",
+        "prep": "Leaves cooked as a vegetable/curry, eaten regularly"
+      },
+      {
+        "ailment": "Mouth ulcers",
+        "prep": "Leaf juice used as a mouth rinse"
+      }
+    ],
+    "region": "South India",
+    "id": 3,
+    "slug": "arive-dantu_slender_amaranth"
+  },
+  {
+    "common": "Basale (Malabar spinach)",
+    "botanical": "Basella alba",
+    "family": "Basellaceae",
+    "hindi": "Poi saag",
+    "tamil": "Vaslakeerai",
+    "part": "Leaves",
+    "uses": [
+      "Cooling leafy vegetable",
+      "Wound healing",
+      "Mild laxative"
+    ],
+    "remedies": [
+      {
+        "ailment": "Constipation",
+        "prep": "Cooked leaves eaten as part of meals"
+      },
+      {
+        "ailment": "Skin ulcers",
+        "prep": "Crushed leaf paste applied topically"
+      }
+    ],
+    "region": "South India, Kerala, Tamil Nadu",
+    "id": 4,
+    "slug": "basale_malabar_spinach"
+  },
+  {
+    "common": "Betel leaf",
+    "botanical": "Piper betle",
+    "family": "Piperaceae",
+    "hindi": "Paan",
+    "tamil": "Vetrilai",
+    "part": "Leaf",
+    "uses": [
+      "Digestive aid",
+      "Oral hygiene",
+      "Respiratory relief"
+    ],
+    "remedies": [
+      {
+        "ailment": "Indigestion/bloating",
+        "prep": "Chewed after meals, traditionally with areca nut (betel nut use has health risks - moderation advised)"
+      },
+      {
+        "ailment": "Cough/cold",
+        "prep": "Leaf warmed with a little oil and applied on chest"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 5,
+    "slug": "betel_leaf"
+  },
+  {
+    "common": "Brahmi",
+    "botanical": "Bacopa monnieri",
+    "family": "Plantaginaceae",
+    "hindi": "Brahmi",
+    "tamil": "Piri",
+    "part": "Whole plant",
+    "uses": [
+      "Memory and cognition support",
+      "Anxiety reduction",
+      "Hair health"
+    ],
+    "remedies": [
+      {
+        "ailment": "Mental fatigue/memory support",
+        "prep": "Brahmi leaf juice or standardized extract, traditionally taken in the morning"
+      },
+      {
+        "ailment": "Hair fall",
+        "prep": "Brahmi oil massaged into scalp"
+      }
+    ],
+    "region": "Pan-India, wetlands",
+    "id": 6,
+    "slug": "brahmi"
+  },
+  {
+    "common": "Coriander",
+    "botanical": "Coriandrum sativum",
+    "family": "Apiaceae",
+    "hindi": "Dhaniya",
+    "tamil": "Kothamalli",
+    "part": "Leaves and seeds",
+    "uses": [
+      "Digestive aid",
+      "Cooling for the body",
+      "Blood sugar support"
+    ],
+    "remedies": [
+      {
+        "ailment": "Indigestion/gas",
+        "prep": "Coriander seed water (soaked overnight) taken in the morning"
+      },
+      {
+        "ailment": "Mouth/throat irritation",
+        "prep": "Coriander leaf juice used as a gargle"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 7,
+    "slug": "coriander"
+  },
+  {
+    "common": "Crape jasmine",
+    "botanical": "Tabernaemontana divaricata",
+    "family": "Apocynaceae",
+    "hindi": "Chandni",
+    "tamil": "Nandhiyavattai",
+    "part": "Leaves and latex",
+    "uses": [
+      "Eye care (traditional)",
+      "Skin conditions",
+      "Ornamental/fragrant flower"
+    ],
+    "remedies": [
+      {
+        "ailment": "Minor eye irritation",
+        "prep": "Traditionally diluted leaf extract used with caution (not recommended without professional guidance)"
+      },
+      {
+        "ailment": "Skin sores",
+        "prep": "Latex applied topically in small amounts"
+      }
+    ],
+    "region": "South India",
+    "id": 8,
+    "slug": "crape_jasmine"
+  },
+  {
+    "common": "Curry leaf",
+    "botanical": "Murraya koenigii",
+    "family": "Rutaceae",
+    "hindi": "Kadi patta",
+    "tamil": "Karuveppilai",
+    "part": "Leaves",
+    "uses": [
+      "Digestive health",
+      "Hair greying/hair fall",
+      "Blood sugar support"
+    ],
+    "remedies": [
+      {
+        "ailment": "Hair fall/premature greying",
+        "prep": "Curry leaves boiled in coconut oil, cooled, and massaged into scalp"
+      },
+      {
+        "ailment": "Indigestion",
+        "prep": "Fresh leaves chewed or added to buttermilk"
+      }
+    ],
+    "region": "South India",
+    "id": 9,
+    "slug": "curry_leaf"
+  },
+  {
+    "common": "Drumstick (Moringa)",
+    "botanical": "Moringa oleifera",
+    "family": "Moringaceae",
+    "hindi": "Sahjan",
+    "tamil": "Murungai",
+    "part": "Leaves, pods, seeds",
+    "uses": [
+      "Nutrient-dense superfood",
+      "Anti-inflammatory",
+      "Immunity support"
+    ],
+    "remedies": [
+      {
+        "ailment": "General nutrition/anemia support",
+        "prep": "Moringa leaves cooked as a vegetable or dried into powder for daily use"
+      },
+      {
+        "ailment": "Joint pain",
+        "prep": "Moringa leaf paste applied topically as a poultice"
+      }
+    ],
+    "region": "Pan-India, especially Tamil Nadu",
+    "id": 10,
+    "slug": "drumstick_moringa"
+  },
+  {
+    "common": "Fenugreek",
+    "botanical": "Trigonella foenum-graecum",
+    "family": "Fabaceae",
+    "hindi": "Methi",
+    "tamil": "Vendhayam",
+    "part": "Seeds and leaves",
+    "uses": [
+      "Blood sugar support",
+      "Lactation aid for nursing mothers",
+      "Digestive health"
+    ],
+    "remedies": [
+      {
+        "ailment": "Blood sugar support (dietary)",
+        "prep": "Fenugreek seeds soaked overnight, water and seeds consumed in the morning"
+      },
+      {
+        "ailment": "Low milk supply (nursing)",
+        "prep": "Fenugreek seeds included in diet, traditionally as a lactation aid"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 11,
+    "slug": "fenugreek"
+  },
+  {
+    "common": "Guava",
+    "botanical": "Psidium guajava",
+    "family": "Myrtaceae",
+    "hindi": "Amrud",
+    "tamil": "Koyya",
+    "part": "Leaves and fruit",
+    "uses": [
+      "Digestive health/diarrhea",
+      "Oral health",
+      "Vitamin C source"
+    ],
+    "remedies": [
+      {
+        "ailment": "Diarrhea (mild)",
+        "prep": "Young guava leaves boiled in water, cooled decoction taken"
+      },
+      {
+        "ailment": "Toothache/gum issues",
+        "prep": "Guava leaves chewed or used as a mouth rinse"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 12,
+    "slug": "guava"
+  },
+  {
+    "common": "Henna",
+    "botanical": "Lawsonia inermis",
+    "family": "Lythraceae",
+    "hindi": "Mehendi",
+    "tamil": "Marudhani",
+    "part": "Leaves",
+    "uses": [
+      "Hair conditioning/dye",
+      "Cooling for skin",
+      "Nail health"
+    ],
+    "remedies": [
+      {
+        "ailment": "Scalp cooling/dandruff",
+        "prep": "Henna leaf paste applied to scalp and hair, washed off after an hour"
+      },
+      {
+        "ailment": "Minor burns",
+        "prep": "Fresh leaf paste applied to affected area"
+      }
+    ],
+    "region": "Pan-India, especially Rajasthan",
+    "id": 13,
+    "slug": "henna"
+  },
+  {
+    "common": "Hibiscus",
+    "botanical": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "hindi": "Gudhal",
+    "tamil": "Semparuthi",
+    "part": "Flowers and leaves",
+    "uses": [
+      "Hair growth",
+      "Cooling herbal tea",
+      "Skin care"
+    ],
+    "remedies": [
+      {
+        "ailment": "Hair fall",
+        "prep": "Hibiscus flowers and leaves ground with oil, applied to scalp"
+      },
+      {
+        "ailment": "Hot weather fatigue",
+        "prep": "Dried hibiscus flowers steeped as a cooling tea"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 14,
+    "slug": "hibiscus"
+  },
+  {
+    "common": "Honge (Indian beech)",
+    "botanical": "Pongamia pinnata",
+    "family": "Fabaceae",
+    "hindi": "Karanj",
+    "tamil": "Pungai",
+    "part": "Seeds, leaves, oil",
+    "uses": [
+      "Skin conditions (traditional)",
+      "Wound care",
+      "Pest-repellent oil"
+    ],
+    "remedies": [
+      {
+        "ailment": "Skin conditions/scabies",
+        "prep": "Pongamia (karanja) oil applied topically in small diluted amounts"
+      },
+      {
+        "ailment": "Minor wounds",
+        "prep": "Leaf paste applied as a poultice"
+      }
+    ],
+    "region": "South India, Karnataka",
+    "id": 15,
+    "slug": "honge_indian_beech"
+  },
+  {
+    "common": "Indian beech",
+    "botanical": "Pongamia pinnata",
+    "family": "Fabaceae",
+    "hindi": "Karanj",
+    "tamil": "Pungai",
+    "part": "Seeds, leaves, oil",
+    "uses": [
+      "Same species as Honge - regional name duplicate in this dataset"
+    ],
+    "remedies": [
+      {
+        "ailment": "Skin conditions",
+        "prep": "See Honge entry - same plant, Pongamia pinnata"
+      }
+    ],
+    "region": "South India",
+    "id": 16,
+    "slug": "indian_beech"
+  },
+  {
+    "common": "Indian mustard",
+    "botanical": "Brassica juncea",
+    "family": "Brassicaceae",
+    "hindi": "Sarson",
+    "tamil": "Kadugu",
+    "part": "Seeds and leaves",
+    "uses": [
+      "Cooking oil source",
+      "Chest congestion relief",
+      "Joint pain relief"
+    ],
+    "remedies": [
+      {
+        "ailment": "Cold/chest congestion",
+        "prep": "Warm mustard oil massaged onto chest and back"
+      },
+      {
+        "ailment": "Joint pain",
+        "prep": "Mustard oil warmed with garlic, used for massage"
+      }
+    ],
+    "region": "North India, Punjab",
+    "id": 17,
+    "slug": "indian_mustard"
+  },
+  {
+    "common": "Insulin plant",
+    "botanical": "Costus igneus",
+    "family": "Costaceae",
+    "hindi": "Insulin plant",
+    "tamil": "Insulin plant",
+    "part": "Leaves",
+    "uses": [
+      "Traditional blood sugar support"
+    ],
+    "remedies": [
+      {
+        "ailment": "Blood sugar support (traditional, not a replacement for medication)",
+        "prep": "One fresh leaf chewed daily; consult a doctor before use, especially if on diabetes medication"
+      }
+    ],
+    "region": "South India, home gardens",
+    "id": 18,
+    "slug": "insulin_plant"
+  },
+  {
+    "common": "Jackfruit",
+    "botanical": "Artocarpus heterophyllus",
+    "family": "Moraceae",
+    "hindi": "Kathal",
+    "tamil": "Palapazham",
+    "part": "Leaves, latex, fruit",
+    "uses": [
+      "Wound healing",
+      "Digestive fiber source",
+      "Skin health"
+    ],
+    "remedies": [
+      {
+        "ailment": "Minor wounds/ulcers",
+        "prep": "Leaf latex applied topically"
+      },
+      {
+        "ailment": "Constipation",
+        "prep": "Ripe fruit eaten for dietary fiber"
+      }
+    ],
+    "region": "South India, Kerala",
+    "id": 19,
+    "slug": "jackfruit"
+  },
+  {
+    "common": "Jamaica cherry",
+    "botanical": "Muntingia calabura",
+    "family": "Muntingiaceae",
+    "hindi": "Panama cherry",
+    "tamil": "Chirunelli (local)",
+    "part": "Leaves and fruit",
+    "uses": [
+      "Anti-inflammatory",
+      "Cold and headache relief",
+      "Antioxidant fruit"
+    ],
+    "remedies": [
+      {
+        "ailment": "Headache",
+        "prep": "Leaf decoction traditionally used, taken as a mild infusion"
+      },
+      {
+        "ailment": "Cold symptoms",
+        "prep": "Leaf tea taken warm"
+      }
+    ],
+    "region": "South India (naturalized)",
+    "id": 20,
+    "slug": "jamaica_cherry"
+  },
+  {
+    "common": "Jamun (Java plum)",
+    "botanical": "Syzygium cumini",
+    "family": "Myrtaceae",
+    "hindi": "Jamun",
+    "tamil": "Naval pazham",
+    "part": "Seeds, fruit, bark",
+    "uses": [
+      "Blood sugar support",
+      "Digestive health",
+      "Antioxidant fruit"
+    ],
+    "remedies": [
+      {
+        "ailment": "Blood sugar support",
+        "prep": "Dried jamun seed powder taken with water, traditional adjunct only"
+      },
+      {
+        "ailment": "Diarrhea",
+        "prep": "Bark decoction taken in small amounts"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 21,
+    "slug": "jamun_java_plum"
+  },
+  {
+    "common": "Jasmine",
+    "botanical": "Jasminum sp.",
+    "family": "Oleaceae",
+    "hindi": "Chameli",
+    "tamil": "Malligai",
+    "part": "Flowers and leaves",
+    "uses": [
+      "Aromatherapy/relaxation",
+      "Skin care",
+      "Mild oral health use"
+    ],
+    "remedies": [
+      {
+        "ailment": "Stress/anxiety (aromatherapy)",
+        "prep": "Jasmine flower fragrance or diluted oil used for relaxation"
+      },
+      {
+        "ailment": "Mouth ulcers",
+        "prep": "Leaf decoction used as a mouth rinse"
+      }
+    ],
+    "region": "Pan-India, especially Tamil Nadu (Madurai malli)",
+    "id": 22,
+    "slug": "jasmine"
+  },
+  {
+    "common": "Karanda",
+    "botanical": "Carissa carandas",
+    "family": "Apocynaceae",
+    "hindi": "Karonda",
+    "tamil": "Kilaakaai",
+    "part": "Fruit and root",
+    "uses": [
+      "Digestive health",
+      "Vitamin C source",
+      "Anti-inflammatory"
+    ],
+    "remedies": [
+      {
+        "ailment": "Indigestion",
+        "prep": "Ripe or pickled fruit eaten with meals"
+      },
+      {
+        "ailment": "Skin inflammation",
+        "prep": "Root paste applied topically, traditional use"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 23,
+    "slug": "karanda"
+  },
+  {
+    "common": "Lemon",
+    "botanical": "Citrus limon",
+    "family": "Rutaceae",
+    "hindi": "Nimbu",
+    "tamil": "Elumichai",
+    "part": "Fruit and juice",
+    "uses": [
+      "Vitamin C/immunity",
+      "Digestive aid",
+      "Skin brightening"
+    ],
+    "remedies": [
+      {
+        "ailment": "Cold/low immunity",
+        "prep": "Warm water with lemon juice and honey"
+      },
+      {
+        "ailment": "Indigestion",
+        "prep": "Lemon juice with a pinch of salt after meals"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 24,
+    "slug": "lemon"
+  },
+  {
+    "common": "Mango",
+    "botanical": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "hindi": "Aam",
+    "tamil": "Mangai",
+    "part": "Leaves, bark, fruit",
+    "uses": [
+      "Digestive health",
+      "Blood sugar support (leaves)",
+      "Vitamin A source"
+    ],
+    "remedies": [
+      {
+        "ailment": "Diarrhea",
+        "prep": "Dried mango leaf powder taken with water"
+      },
+      {
+        "ailment": "Blood sugar support",
+        "prep": "Mango leaves soaked overnight, water taken in the morning"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 25,
+    "slug": "mango"
+  },
+  {
+    "common": "Marigold",
+    "botanical": "Tagetes sp.",
+    "family": "Asteraceae",
+    "hindi": "Genda",
+    "tamil": "Thulukka Samanthi",
+    "part": "Flowers",
+    "uses": [
+      "Wound healing",
+      "Anti-inflammatory",
+      "Skin care"
+    ],
+    "remedies": [
+      {
+        "ailment": "Minor cuts/wounds",
+        "prep": "Marigold flower paste applied topically"
+      },
+      {
+        "ailment": "Skin irritation",
+        "prep": "Flower infusion used as a topical wash"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 26,
+    "slug": "marigold"
+  },
+  {
+    "common": "Mexican mint (Indian borage)",
+    "botanical": "Plectranthus amboinicus",
+    "family": "Lamiaceae",
+    "hindi": "Patharchur",
+    "tamil": "Karpooravalli",
+    "part": "Leaves",
+    "uses": [
+      "Cough and cold relief",
+      "Digestive aid",
+      "Skin care"
+    ],
+    "remedies": [
+      {
+        "ailment": "Cough/cold in children",
+        "prep": "Leaf juice mixed with honey, taken in small amounts"
+      },
+      {
+        "ailment": "Indigestion",
+        "prep": "Fresh leaves chewed or added to food"
+      }
+    ],
+    "region": "South India, Tamil Nadu",
+    "id": 27,
+    "slug": "mexican_mint_indian_borage"
+  },
+  {
+    "common": "Mint",
+    "botanical": "Mentha sp.",
+    "family": "Lamiaceae",
+    "hindi": "Pudina",
+    "tamil": "Pudhina",
+    "part": "Leaves",
+    "uses": [
+      "Digestive aid",
+      "Freshens breath",
+      "Cooling for the body"
+    ],
+    "remedies": [
+      {
+        "ailment": "Indigestion/nausea",
+        "prep": "Fresh mint leaves chewed or steeped as tea"
+      },
+      {
+        "ailment": "Bad breath",
+        "prep": "Leaves chewed directly"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 28,
+    "slug": "mint"
+  },
+  {
+    "common": "Neem",
+    "botanical": "Azadirachta indica",
+    "family": "Meliaceae",
+    "hindi": "Neem",
+    "tamil": "Vembu",
+    "part": "Leaves, bark, oil",
+    "uses": [
+      "Skin health/antibacterial",
+      "Blood purifier (traditional)",
+      "Pest repellent"
+    ],
+    "remedies": [
+      {
+        "ailment": "Acne/skin infections",
+        "prep": "Neem leaf paste applied topically"
+      },
+      {
+        "ailment": "Dandruff",
+        "prep": "Neem leaves boiled in water, cooled and used as a hair rinse"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 29,
+    "slug": "neem"
+  },
+  {
+    "common": "Oleander",
+    "botanical": "Nerium oleander",
+    "family": "Apocynaceae",
+    "hindi": "Kaner",
+    "tamil": "Arali",
+    "part": "Leaves (CAUTION: toxic)",
+    "uses": [
+      "Ornamental; traditionally used externally in very limited, expert-supervised preparations"
+    ],
+    "remedies": [
+      {
+        "ailment": "CAUTION - highly toxic plant",
+        "prep": "All parts are poisonous if ingested; traditional external uses require expert supervision only - not for home remedy use"
+      }
+    ],
+    "region": "Pan-India (ornamental)",
+    "id": 30,
+    "slug": "oleander"
+  },
+  {
+    "common": "Palak (Spinach)",
+    "botanical": "Spinacia oleracea",
+    "family": "Amaranthaceae",
+    "hindi": "Palak",
+    "tamil": "Pasalai keerai",
+    "part": "Leaves",
+    "uses": [
+      "Iron-rich leafy green",
+      "Eye health (vitamin A)",
+      "Digestive fiber"
+    ],
+    "remedies": [
+      {
+        "ailment": "Anemia (dietary support)",
+        "prep": "Leaves cooked and eaten regularly as part of meals"
+      },
+      {
+        "ailment": "Constipation",
+        "prep": "Spinach soup/juice taken for fiber content"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 31,
+    "slug": "palak_spinach"
+  },
+  {
+    "common": "Papaya",
+    "botanical": "Carica papaya",
+    "family": "Caricaceae",
+    "hindi": "Papita",
+    "tamil": "Pappali",
+    "part": "Leaves, fruit, latex",
+    "uses": [
+      "Digestive enzyme source",
+      "Platelet support (traditional, dengue care)",
+      "Skin exfoliation"
+    ],
+    "remedies": [
+      {
+        "ailment": "Indigestion",
+        "prep": "Ripe papaya eaten regularly for digestive enzymes"
+      },
+      {
+        "ailment": "Low platelet count (adjunct only)",
+        "prep": "Papaya leaf juice traditionally used - always alongside medical care, never as a replacement"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 32,
+    "slug": "papaya"
+  },
+  {
+    "common": "Parijata (Night jasmine)",
+    "botanical": "Nyctanthes arbor-tristis",
+    "family": "Oleaceae",
+    "hindi": "Harsingar",
+    "tamil": "Pavazhamalli",
+    "part": "Leaves and flowers",
+    "uses": [
+      "Joint pain relief",
+      "Fever management (traditional)",
+      "Sciatica relief"
+    ],
+    "remedies": [
+      {
+        "ailment": "Joint pain/arthritis",
+        "prep": "Leaf decoction taken traditionally, warm"
+      },
+      {
+        "ailment": "Fever",
+        "prep": "Leaf extract used in traditional formulations"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 33,
+    "slug": "parijata_night_jasmine"
+  },
+  {
+    "common": "Peepal (Sacred fig)",
+    "botanical": "Ficus religiosa",
+    "family": "Moraceae",
+    "hindi": "Peepal",
+    "tamil": "Arasa maram",
+    "part": "Bark, leaves, fruit",
+    "uses": [
+      "Respiratory health",
+      "Digestive aid",
+      "Wound healing"
+    ],
+    "remedies": [
+      {
+        "ailment": "Asthma/breathing difficulty",
+        "prep": "Bark powder traditionally taken with milk"
+      },
+      {
+        "ailment": "Minor wounds",
+        "prep": "Leaf paste applied topically"
+      }
+    ],
+    "region": "Pan-India (sacred tree)",
+    "id": 34,
+    "slug": "peepal_sacred_fig"
+  },
+  {
+    "common": "Pomegranate",
+    "botanical": "Punica granatum",
+    "family": "Lythraceae",
+    "hindi": "Anar",
+    "tamil": "Madhulai",
+    "part": "Fruit, peel, bark",
+    "uses": [
+      "Antioxidant/heart health",
+      "Anti-diarrheal (peel)",
+      "Oral health"
+    ],
+    "remedies": [
+      {
+        "ailment": "Diarrhea",
+        "prep": "Dried pomegranate peel powder taken with water"
+      },
+      {
+        "ailment": "Sore throat",
+        "prep": "Peel decoction used as a gargle"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 35,
+    "slug": "pomegranate"
+  },
+  {
+    "common": "Rasna",
+    "botanical": "Alpinia galanga",
+    "family": "Zingiberaceae",
+    "hindi": "Kulanjan",
+    "tamil": "Rasam kizhangu",
+    "part": "Rhizome",
+    "uses": [
+      "Joint pain/inflammation relief",
+      "Digestive aid",
+      "Respiratory support"
+    ],
+    "remedies": [
+      {
+        "ailment": "Joint pain/arthritis",
+        "prep": "Rhizome paste used in traditional oil massages"
+      },
+      {
+        "ailment": "Cough",
+        "prep": "Rhizome decoction taken warm"
+      }
+    ],
+    "region": "South India, Kerala",
+    "id": 36,
+    "slug": "rasna"
+  },
+  {
+    "common": "Rose",
+    "botanical": "Rosa sp.",
+    "family": "Rosaceae",
+    "hindi": "Gulab",
+    "tamil": "Roja",
+    "part": "Petals",
+    "uses": [
+      "Skin cooling/hydration",
+      "Digestive aid (rose water)",
+      "Eye care"
+    ],
+    "remedies": [
+      {
+        "ailment": "Skin irritation/heat",
+        "prep": "Rose water applied topically as a cooling mist"
+      },
+      {
+        "ailment": "Mild eye strain",
+        "prep": "Diluted rose water used as an eye wash, with caution"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 37,
+    "slug": "rose"
+  },
+  {
+    "common": "Rose apple",
+    "botanical": "Syzygium jambos",
+    "family": "Myrtaceae",
+    "hindi": "Gulab jamun fruit (Jamrul)",
+    "tamil": "Panneer pazham",
+    "part": "Fruit, leaves, bark",
+    "uses": [
+      "Digestive health",
+      "Blood sugar support",
+      "Cooling fruit"
+    ],
+    "remedies": [
+      {
+        "ailment": "Diarrhea",
+        "prep": "Bark decoction taken in small amounts"
+      },
+      {
+        "ailment": "Blood sugar support",
+        "prep": "Seeds traditionally dried and powdered"
+      }
+    ],
+    "region": "South India",
+    "id": 38,
+    "slug": "rose_apple"
+  },
+  {
+    "common": "Roxburgh fig",
+    "botanical": "Ficus auriculata",
+    "family": "Moraceae",
+    "hindi": "Timla",
+    "tamil": "Aal maram (local)",
+    "part": "Bark, fruit, leaves",
+    "uses": [
+      "Digestive health",
+      "Wound healing",
+      "Diabetes support (traditional)"
+    ],
+    "remedies": [
+      {
+        "ailment": "Wounds",
+        "prep": "Latex or bark paste applied topically"
+      },
+      {
+        "ailment": "Digestive upset",
+        "prep": "Bark decoction taken traditionally"
+      }
+    ],
+    "region": "Northeast India, hilly regions",
+    "id": 39,
+    "slug": "roxburgh_fig"
+  },
+  {
+    "common": "Sandalwood",
+    "botanical": "Santalum album",
+    "family": "Santalaceae",
+    "hindi": "Chandan",
+    "tamil": "Sandhanam",
+    "part": "Heartwood, oil",
+    "uses": [
+      "Skin cooling/anti-inflammatory",
+      "Aromatherapy",
+      "Acne care"
+    ],
+    "remedies": [
+      {
+        "ailment": "Acne/skin heat",
+        "prep": "Sandalwood paste applied topically to affected skin"
+      },
+      {
+        "ailment": "Stress",
+        "prep": "Sandalwood oil used in aromatherapy"
+      }
+    ],
+    "region": "South India, Karnataka",
+    "id": 40,
+    "slug": "sandalwood"
+  },
+  {
+    "common": "Seethapala (Custard apple)",
+    "botanical": "Annona squamosa",
+    "family": "Annonaceae",
+    "hindi": "Sitaphal",
+    "tamil": "Seethapazham",
+    "part": "Leaves and fruit",
+    "uses": [
+      "Digestive health",
+      "Skin care (leaves)",
+      "Nutrient-rich fruit"
+    ],
+    "remedies": [
+      {
+        "ailment": "Head lice (traditional)",
+        "prep": "Crushed leaf paste applied to scalp, rinsed after"
+      },
+      {
+        "ailment": "Indigestion",
+        "prep": "Ripe fruit eaten for digestive support"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 41,
+    "slug": "seethapala_custard_apple"
+  },
+  {
+    "common": "Tamarind",
+    "botanical": "Tamarindus indica",
+    "family": "Fabaceae",
+    "hindi": "Imli",
+    "tamil": "Puli",
+    "part": "Fruit pulp, leaves, bark",
+    "uses": [
+      "Digestive aid",
+      "Vitamin C source",
+      "Cooling for the body"
+    ],
+    "remedies": [
+      {
+        "ailment": "Constipation",
+        "prep": "Tamarind pulp soaked in water, taken as a mild laxative"
+      },
+      {
+        "ailment": "Sunstroke/heat exhaustion",
+        "prep": "Tamarind water taken to cool the body"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 42,
+    "slug": "tamarind"
+  },
+  {
+    "common": "Tulsi (Holy basil)",
+    "botanical": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "hindi": "Tulsi",
+    "tamil": "Thulasi",
+    "part": "Leaves",
+    "uses": [
+      "Cold and cough relief",
+      "Immunity support",
+      "Stress relief"
+    ],
+    "remedies": [
+      {
+        "ailment": "Cold/cough",
+        "prep": "Tulsi leaves boiled with ginger and honey as a warm tea"
+      },
+      {
+        "ailment": "Stress/fatigue",
+        "prep": "Fresh tulsi leaves chewed in the morning"
+      }
+    ],
+    "region": "Pan-India (sacred plant)",
+    "id": 43,
+    "slug": "tulsi_holy_basil"
+  },
+  {
+    "common": "Turmeric",
+    "botanical": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "hindi": "Haldi",
+    "tamil": "Manjal",
+    "part": "Rhizome",
+    "uses": [
+      "Anti-inflammatory",
+      "Wound healing",
+      "Immunity support"
+    ],
+    "remedies": [
+      {
+        "ailment": "Minor cuts/wounds",
+        "prep": "Turmeric powder applied directly to stop bleeding and prevent infection"
+      },
+      {
+        "ailment": "Sore throat/cold",
+        "prep": "Turmeric milk (haldi doodh) taken warm before bed"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 44,
+    "slug": "turmeric"
+  },
+  {
+    "common": "Ashoka",
+    "botanical": "Saraca asoca",
+    "family": "Fabaceae",
+    "hindi": "Ashoka",
+    "tamil": "Asogam",
+    "part": "Bark",
+    "uses": [
+      "Women's health (traditional)",
+      "Anti-inflammatory",
+      "Digestive support"
+    ],
+    "remedies": [
+      {
+        "ailment": "Menstrual discomfort (traditional use)",
+        "prep": "Ashoka bark decoction, traditionally used - consult a doctor for persistent issues"
+      },
+      {
+        "ailment": "General inflammation",
+        "prep": "Bark powder used in traditional formulations"
+      }
+    ],
+    "region": "Pan-India",
+    "id": 45,
+    "slug": "ashoka"
+  }
+]
