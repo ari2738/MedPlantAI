@@ -4,6 +4,11 @@ An interactive Indian medicinal plant identifier — upload a leaf photo, get an
 AI identification, browse traditional remedies, take quizzes, and track your
 progress with badges.
 
+
+**Website live url**
+
+https://medplantai.netlify.app/
+
 ## Stack
 - **Frontend:** React (Vite), Tailwind CSS v4, Framer Motion, React Router
 - **Backend:** Flask, Flask-JWT-Extended, SQLAlchemy
