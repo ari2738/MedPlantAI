@@ -1,4 +1,4 @@
-# MedPlant AI
+<img width="1920" height="1020" alt="Screenshot 2026-07-21 115642" src="https://github.com/user-attachments/assets/e736a21e-40f2-4e54-96f5-9777cd63d885" /><img width="1920" height="1020" alt="Screenshot 2026-07-21 115642" src="https://github.com/user-attachments/assets/908dcf2a-b4ca-4542-a060-d05ea385ec35" /># MedPlant AI
 
 An interactive Indian medicinal plant identifier — upload a leaf photo, get an
 AI identification, browse traditional remedies, take quizzes, and track your
@@ -11,17 +11,14 @@ https://medplantai.netlify.app/
 
 **screenshots**
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/22dd6471-d4fe-44b9-a79b-93fb1083db91" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-07-21 115642" src="https://github.com/user-attachments/assets/7eca5f73-f4ba-40bb-938b-d6c8c8736a4f" />
 
 <img width="1920" height="1020" alt="Screenshot 2026-07-21 115714" src="https://github.com/user-attachments/assets/001642b1-f5db-4ec5-9016-0abd83f40328" />
 
 <img width="1920" height="1020" alt="Screenshot 2026-07-21 120630" src="https://github.com/user-attachments/assets/662e53f4-3134-4367-9e32-aad8170dff8a" />
 
-![Uploading Screenshot 2026-07-21 121107.png…]()
-
-
-
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/22dd6471-d4fe-44b9-a79b-93fb1083db91" />
 
 ## Stack
 - **Frontend:** React (Vite), Tailwind CSS v4, Framer Motion, React Router
