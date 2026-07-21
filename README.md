@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="Screenshot 2026-07-21 115642" src="https://github.com/user-attachments/assets/e736a21e-40f2-4e54-96f5-9777cd63d885" /><img width="1920" height="1020" alt="Screenshot 2026-07-21 115642" src="https://github.com/user-attachments/assets/908dcf2a-b4ca-4542-a060-d05ea385ec35" /># MedPlant AI
+# MedPlant AI
 
 An interactive Indian medicinal plant identifier — upload a leaf photo, get an
 AI identification, browse traditional remedies, take quizzes, and track your
