@@ -30,7 +30,11 @@ def create_app():
 
     db.init_app(app)
     JWTManager(app)
-    CORS(app, resources={r"/api/*": {"origins": "*"}})  # tighten origins in production
+    CORS(app, resources={r"/api/*": {"origins": [
+        "http://localhost:5173",
+        "http://localhost:3000",
+        "https://medplantai.netlify.app",
+    ]}})
 
     app.register_blueprint(auth_bp)
     app.register_blueprint(plants_bp)
